@@ -1,7 +1,8 @@
-ApiAiSDK , Newtonsoft.Json , System.Net.Requests , Telegram.Bot. were added via NuGet
+This is a Telegram Bot with Google arificial intelligence and educational function ! 
+
+Libraries: ApiAiSDK , Newtonsoft.Json , System.Net.Requests , Telegram.Bot. were added via NuGet
 if you want the downloaded project work correctly, take these libraries into concideration.
 
-It is working on Google artificial intelligence and has  educational function.
 
 How to Work: 
 
