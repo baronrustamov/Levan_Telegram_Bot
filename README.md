@@ -1,6 +1,13 @@
 This is a Telegram Bot , written with C# and ASP.NET , has Google arificial intelligence and educational function!
 
-Libraries: ApiAiSDK , Newtonsoft.Json , System.Net.Requests , Telegram.Bot. were added via NuGet
+Libraries:
+ApiAiSDK 
+Newtonsoft.Json
+System.Net.Requests
+Telegram.Bot
+Costura.Fody
+Fody
+. were added via NuGet
 if you want the downloaded project work correctly, take these libraries into concideration.
 
 
